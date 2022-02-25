@@ -1,10 +1,16 @@
-### Hi there 👋
+### ESPersonnel here 👋
 
 I'm a 3D artist. I'm here to showcase my learning experiences.
 
 Currently working on learning Three.JS ('It's not that bad')
 
 I'll be sharing my artwork once I get a website built, hence the need for Three.JS.
+
+This is where good sites will be stored:
+
+<ul>
+  <li><a href = "https://hello-threejs-seven.vercel.app/">Hello three.js</a> - First site just happens to be a donut, Andrew Price would be so proud (Blender reference).</li>
+</ul>
 
 While you're here, come on in. Fancy something neat, I'm your guy.
 
