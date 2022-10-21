@@ -11,7 +11,14 @@ This is where good sites will be stored:
 <ul>
   <li><a href = "https://hello-threejs-seven.vercel.app/">Hello three.js</a> - First site just happens to be a donut, Andrew Price would be so proud (Blender reference).</li>
   <li><a href = "https://galaxy-generator-dun.vercel.app/">Galaxy Generator</a> - This one's a good one. With only animation left, it's got a lot going on for it.</li>
-  <li><a href = "https://particles-silk.vercel.app/">Particles</a> - Some of you like math. Well, this is some mouth watering shi- 'language'. It's a wave function. It's all there is to it.</a>
+  <li><a href = "https://particles-silk.vercel.app/">Particles</a> - Some of you like math. Well, this is some mouth watering shi- 'language'. It's a wave function. It's all there is to it.</li>
+</ul>
+
+Lemme add a few more. I'll do house clean up in a bit.
+
+<ul>
+  <li><a href="https://github.com/DennohKim/TurfZone/">TurfZone Football App</a> - Had a lot fun working on this in a group setting. Full stack (React + Ruby on Rails)</li>
+  <li><a href="https://github.com/orgs/Phase-V-Capstone/dashboard">Hackerank Moringa</a> - Currently working on this with a team. Good things are coming.</li>
 </ul>
 
 While you're here, come on in. Fancy something neat, I'm your guy.
