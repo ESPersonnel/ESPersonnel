@@ -6,6 +6,8 @@ Currently working on learning Three.JS ('It's not that bad')
 
 I'll be sharing my artwork once I get a website built, hence the need for Three.JS.
 
+Here's my portfolio website: <a href="https://github.com/ESPersonnel/ESPersonnel-Portfolio">Portfolio</a>
+
 This is where good sites will be stored:
 
 <ul>
