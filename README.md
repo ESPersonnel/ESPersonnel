@@ -33,6 +33,9 @@ The numbers will get there. Gotta start somewhere.
 
 [![ESPersonnel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESPersonnel&show_icons=true&theme=midnight-purple)](https://github.com/ESPersonnel/github-readme-stats)
 
+Here's what I'm listening to:
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lcfj8fzhq0k9g10ctscpmr4x8)
+
 
 <!--
 **ESPersonnel/ESPersonnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
