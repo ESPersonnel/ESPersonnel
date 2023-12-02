@@ -1,41 +1,23 @@
 ### ESPersonnel here 👋
 
-I'm a 3D artist. I'm here to showcase my learning experiences.
+I'm a 3D Technical Designer | Data Analyst | Software Developer
 
-Currently working on learning Three.JS ('It's not that bad')
+Always learning new technologies.
 
-I'll be sharing my artwork once I get a website built, hence the need for Three.JS.
+> Serious portfolio rebuild.
 
-Here's my portfolio website: <a href="https://github.com/ESPersonnel/ESPersonnel-Portfolio">Portfolio</a>
+Lemme add a few more. I'll do the house cleanup in a bit.
 
-This is where good sites will be stored:
+3D Projects: [Blender Files](https://github.com/ESPersonnel/Blender-Files)
 
-<ul>
-  <li><a href = "https://hello-threejs-seven.vercel.app/">Hello three.js</a> - First site just happens to be a donut, Andrew Price would be so proud (Blender reference).</li>
-  <li><a href = "https://galaxy-generator-dun.vercel.app/">Galaxy Generator</a> - This one's a good one. With only animation left, it's got a lot going on for it.</li>
-  <li><a href = "https://particles-silk.vercel.app/">Particles</a> - Some of you like math. Well, this is some mouth watering shi- 'language'. It's a wave function. It's all there is to it.</li>
-</ul>
-
-Lemme add a few more. I'll do house clean up in a bit.
-
-<ul>
-  <li><a href="https://github.com/DennohKim/TurfZone/">TurfZone Football App</a> - Had a lot fun working on this in a group setting. Full stack (React + Ruby on Rails)</li>
-  <li><a href="https://github.com/orgs/Phase-V-Capstone/dashboard">Hackerank Moringa</a> - Currently working on this with a team. Good things are coming.</li>
-</ul>
-
-While you're here, come on in. Fancy something neat, I'm your guy.
 
 ## GitHub Stats
-
-Here's a little sumn sumn for the stats guys:
-
-The numbers will get there. Gotta start somewhere.
 
 [![ESPersonnel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESPersonnel&show_icons=true&theme=midnight-purple)](https://github.com/ESPersonnel/github-readme-stats)
 
 Here's what I'm listening to:
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lcfj8fzhq0k9g10ctscpmr4x8)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lcfj8fzhq0k9g10ctscpmr4x88&count={1})
 
 
 <!--
