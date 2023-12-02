@@ -17,7 +17,7 @@ Lemme add a few more. I'll do the house cleanup in a bit.
 
 Here's what I'm listening to:
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lcfj8fzhq0k9g10ctscpmr4x88&count={1})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lcfj8fzhq0k9g10ctscpmr4x8)
 
 
 <!--
