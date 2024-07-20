@@ -2,22 +2,18 @@
 
 I'm a 3D Technical Designer | Data Analyst | Software Developer
 
-Always learning new technologies.
+I'm currently looking for a job, if you need to create an interactive website using react-three-fiber, working on a Ruby on Rails software, or need help cleaning up and analyzing datasets, please do reach out.
 
-> Serious portfolio rebuild.
+## Projects
 
-Lemme add a few more. I'll do the house cleanup in a bit.
 
 3D Projects: [Blender Files](https://github.com/ESPersonnel/Blender-Files)
 
+Image Converter and Compressor: [Repo Link](https://github.com/ESPersonnel/Image-Converter), [Live Link](https://image-converter-psi.vercel.app/)
 
-## GitHub Stats
+NYPD Arrest Analysis: [Repo Link](https://github.com/ESPersonnel/NYPD-Arrest-Analysis)
 
-[![ESPersonnel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESPersonnel&show_icons=true&theme=midnight-purple)](https://github.com/ESPersonnel/github-readme-stats)
-
-Here's what I'm listening to:
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lcfj8fzhq0k9g10ctscpmr4x8)
+MP Salary Awareness: [Repo Link](https://github.com/ESPersonnel/MP-Salary-Awareness)
 
 
 <!--
